@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Banner />
-      <Exhibit></Exhibit>
+      <Exhibit />
     </>
   )
 }
